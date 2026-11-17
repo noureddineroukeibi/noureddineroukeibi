@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**noureddineroukeibi/noureddineroukeibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Noureddine 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about coding, creating digital solutions, and building cool projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+- **Languages:** Python, JavaScript, HTML5, CSS3
+- **Audio & Creative:** FL Studio, Audio Production, Graphic Design
+- **Tools:** Git, GitHub, VS Code
+
+### 📌 Current Focus
+- 🚀 Building web applications & scripts
+- 🎵 Exploring audio scripting and music production tech
+- 📚 Learning new frameworks & technologies daily
+
+### 📊 GitHub Stats
+![Noureddine's GitHub stats](https://github-readme-stats.vercel.app/api?username=noureddineroukeibi&show_icons=true&theme=radial)
+
+---
+✨ *"Keep coding, keep creating!"*
